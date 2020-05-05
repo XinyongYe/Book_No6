@@ -1,1 +1,1 @@
-include ':app', ':startactivity_finish_module'
+include ':app', ':startactivity_finish_module', ':bundle_in_activity_module', ':startactivityforresult_onactivityresult_module', ':fragmentmodule'

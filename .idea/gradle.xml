@@ -9,7 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bundle_in_activity_module" />
+            <option value="$PROJECT_DIR$/fragmentmodule" />
             <option value="$PROJECT_DIR$/startactivity_finish_module" />
+            <option value="$PROJECT_DIR$/startactivityforresult_onactivityresult_module" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
